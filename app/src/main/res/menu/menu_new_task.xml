@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_save"
+        android:title=""
+        android:icon="@drawable/baseline_add_task_24"
+        app:showAsAction="always"
+        android:iconTint="@color/fab_color"
+        tools:targetApi="o" />
+</menu>

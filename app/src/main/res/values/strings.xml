@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Type">
+        <item>Default</item>
+        <item>Personal</item>
+        <item>Shopping</item>
+        <item>Study</item>
+        <item>Work</item>
+        <item>Hobby</item>
+        <item>Enjoyment</item>
+    </string-array>
+</resources>
